@@ -1,0 +1,12 @@
+{
+  "name": "web-harmony",
+  "version": "1.0.0",
+  "description": "An aplication to look up and play Kodi movies using http GET requests",
+  "main": "server.js",
+  "author": "Chris Wessel <chris.wessel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.0.0",
+    "request": "~2.79.0"
+  }
+}
